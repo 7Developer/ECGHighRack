@@ -1,13 +1,14 @@
 # EcoGaming - Community
 # www.eco-gaming.com
 # Mod: HIGH-LVL-RACK 
-# Version: 1.0.2
+# Version: 1.0.3
 # Discord: https://discord.gg/ps9fkTbAYv
 # You can vote for new Skins and more on
 # Discord in the #mod-talk Channel!
 
 ##########################################
 Updates
+# 1.0.3 - Fine Adjusting Collider
 # 1.0.2 - Fixed oversized Icons
 # 1.0.1 - Racks can Stack now
 	- New Standard icon
@@ -15,7 +16,9 @@ Updates
 # 1.0.0 added
 
 ##########################################
+
 HiGH-LVL-Rack
+
 Stores more Items and save space!
 
 You can craft all Racks in the Anvil, no Commands needed!
