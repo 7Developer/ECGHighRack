@@ -1,19 +1,22 @@
 # EcoGaming - Community
 # www.eco-gaming.com
 # Mod: HIGH-LVL-RACK 
-# Version: 1.0.3
+# Version: 1.0.4
 # Discord: https://discord.gg/ps9fkTbAYv
 # You can vote for new Skins and more on
 # Discord in the #mod-talk Channel!
 
 ##########################################
 Updates
+# 1.0.4 - Added LOD0
 # 1.0.3 - Fine Adjusting Collider
 # 1.0.2 - Fixed oversized Icons
 # 1.0.1 - Racks can Stack now
 	- New Standard icon
 	- Removed Crafting Tab
-# 1.0.0 added
+# 1.0.0 - added
+
+# Known Bugs: Not Stackable at the moment
 
 ##########################################
 
