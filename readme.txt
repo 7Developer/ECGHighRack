@@ -1,13 +1,15 @@
 # EcoGaming - Community
 # www.eco-gaming.com
 # Mod: HIGH-LVL-RACK 
-# Version: 1.0.6
+# Version: 1.0.7
 # Discord: https://discord.gg/ps9fkTbAYv
 # You can vote for new Skins and more on
 # Discord in the #mod-talk Channel!
 
 ##########################################
 Updates
+# 1.0.7 - Added New Rack/Skin
+	- Added New Item Icons
 # 1.0.6 - Fixed HighReckMeat Skin
 # 1.0.5 - Fixed HighReckFreshFood
 	- Changed Skin of HighReckRust
